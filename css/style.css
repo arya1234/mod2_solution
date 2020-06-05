@@ -41,7 +41,7 @@ p{
 @media(min-width: 992px){
 	.col-lg-4{
 	float:left;
-	width : 30%;
+	width : 30.00%;
 	}
 }
 @media(min-width: 768px) and (max-width: 991px){
